@@ -11,6 +11,9 @@
     <sprite>sprites\spr_grahel_face</sprite>
     <sprite>sprites\spr_gun_luger</sprite>
     <sprite>sprites\spr_wall</sprite>
+    <sprite>sprites\spr_gun_m1garand</sprite>
+    <sprite>sprites\spr_gun_revolver</sprite>
+    <sprite>sprites\spr_gun_tomphson</sprite>
   </sprites>
   <backgrounds name="background">
     <background>background\background1</background>
