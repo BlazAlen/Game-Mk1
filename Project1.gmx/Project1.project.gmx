@@ -10,6 +10,7 @@
     <sprite>sprites\spr_test2</sprite>
     <sprite>sprites\spr_grahel_face</sprite>
     <sprite>sprites\spr_gun_luger</sprite>
+    <sprite>sprites\spr_wall</sprite>
   </sprites>
   <backgrounds name="background">
     <background>background\background1</background>
@@ -18,6 +19,8 @@
   <paths name="paths"/>
   <objects name="objects">
     <object>objects\obj_grahel_face</object>
+    <object>objects\obj_player</object>
+    <object>objects\obj_wall</object>
   </objects>
   <rooms name="rooms">
     <room>rooms\room0</room>
