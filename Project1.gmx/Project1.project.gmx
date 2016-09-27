@@ -10,13 +10,7 @@
     <sprite>sprites\spr_test2</sprite>
     <sprite>sprites\spr_grahel_face</sprite>
     <sprite>sprites\spr_gun_luger</sprite>
-<<<<<<< HEAD
     <sprite>sprites\spr_wall</sprite>
-=======
-    <sprite>sprites\spr_gun_m1garand</sprite>
-    <sprite>sprites\spr_gun_tomphson</sprite>
-    <sprite>sprites\spr_gun_revolver</sprite>
->>>>>>> origin/master
   </sprites>
   <backgrounds name="background">
     <background>background\background1</background>
